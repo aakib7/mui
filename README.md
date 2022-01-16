@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Typography 
+just text like paragraph h1 ect
+### AppBar
+Navbar
+### Card, CardActions, CardContent, CardMedia, CssBaseLine
+### Grid, Toolbar, Container
+## import a camera icon 
+### import PhotoCamera from "@material-ui/icon";
+
